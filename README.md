@@ -1,8 +1,8 @@
 # Divvy Data Analysis using R Studio
 
 ## Introduction
-Divvy, Chicago's popular bike-sharing program, provides a convenient and sustainable transportation option for residents and visitors alike. To understand user behaviors and ridership patterns, we analyzed Divvy trip data for a twelve-month period, from July 2022 to June 2023. This comprehensive dataset offers valuable insights into how people are using Divvy's extensive network of bicycles and docking stations.
-This analysis explores various aspects of Divvy ridership, including the breakdown between casual and annual members, their preferred bike types, average ride characteristics like time and distance, and how these patterns vary throughout the day, week, and year. By examining these trends, we can gain a deeper understanding of how Chicagoans utilize Divvy and potentially inform future program development and optimization efforts.
+Divvy, Chicago's popular bike-sharing program, provides a convenient and sustainable transportation option for residents and visitors alike. To understand user behaviors and ridership patterns, I analyzed Divvy trip data for a twelve-month period, from July 2022 to June 2023. This comprehensive dataset offers valuable insights into how people are using Divvy's extensive network of bicycles and docking stations.
+This analysis explores various aspects of Divvy ridership, including the breakdown between casual and annual members, their preferred bike types, average ride characteristics like time and distance, and how these patterns vary throughout the day, week, and year. By examining these trends, I can gain a deeper understanding of how Chicagoans utilize Divvy and potentially inform future program development and optimization efforts.
 
 ## Data Overview
 I used Divvy Trip Data from July 2022 to June 2023. I used these data to analyze the percentage and differences between casual users and annual member users. I used R studio and R programming language to perform the analysis.
